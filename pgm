@@ -1,0 +1,5 @@
+vi pgm.html
+git status
+git add
+git commit-m "and pgm"
+git push origin master
